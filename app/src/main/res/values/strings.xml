@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pizzaria do Moreira</string>
+    <string name="lblFormaPagto">Pagamento:</string>
+    <string name="lblSabor">Sabor:</string>
+    <string name="lblTamanho">Tamanho:</string>
+    <string name="lblPequeno">Pequeno</string>
+    <string name="lblMedio">Médio</string>
+    <string name="lblGrande">Grande</string>
+    <string name="lblBordaRecheada">Borda Recheada</string>
+    <string name="lblFecharPedido">Fechar Pedido</string>
+
+    <string-array name="formaPagto">
+
+        <item>Débito</item>
+        <item>Crédito</item>
+        <item>Dinheito</item>
+        <item>Barra de Ouro</item>
+
+    </string-array>
+
+</resources>
